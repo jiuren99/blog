@@ -5,28 +5,28 @@
   
     {
       "title"    : "页面没有找到",
-      "url"      : "http://localhost:4000/404.html"
+      "url"      : "/blog/404.html"
     } ,
   
   
   
     {
       "title"    : "About",
-      "url"      : "http://localhost:4000/about/"
+      "url"      : "/blog/about/"
     } ,
   
   
   
     {
       "title"    : "归档",
-      "url"      : "http://localhost:4000/archives/"
+      "url"      : "/blog/archives/"
     } ,
   
   
   
     {
       "title"    : "Categories",
-      "url"      : "http://localhost:4000/categories/"
+      "url"      : "/blog/categories/"
     } ,
   
   
@@ -35,14 +35,14 @@
   
     {
       "title"    : "Links",
-      "url"      : "http://localhost:4000/links/"
+      "url"      : "/blog/links/"
     } ,
   
   
   
     {
       "title"    : "Open Source Projects",
-      "url"      : "http://localhost:4000/open-source/"
+      "url"      : "/blog/open-source/"
     } ,
   
   
@@ -51,7 +51,7 @@
   
     {
       "title"    : "法轮大法",
-      "url"      : "http://localhost:4000/wiki/"
+      "url"      : "/blog/wiki/"
     } ,
   
   
@@ -73,189 +73,210 @@
       "title"    : "给有缘人的一封信",
       "category" : "真相",
       
-      "url"      : "http://localhost:4000/2020/06/02/letter/"
+      "url"      : "/blog/2020/06/02/letter/"
     } ,
   
     {
       "title"    : "化解瘟疫劫难的无价特效药",
       "category" : "瘟疫",
       
-      "url"      : "http://localhost:4000/2020/06/02/wenyitexiaoyao/"
+      "url"      : "/blog/2020/06/02/wenyitexiaoyao/"
     } ,
   
     {
       "title"    : "《刘伯温碑记》点明避瘟真言",
       "category" : "瘟疫",
       
-      "url"      : "http://localhost:4000/2020/06/03/liubowenyuyan/"
+      "url"      : "/blog/2020/06/03/liubowenyuyan/"
     } ,
   
     {
       "title"    : "2020年2月解《陕西太白山刘伯温碑记》",
       "category" : "瘟疫",
       
-      "url"      : "http://localhost:4000/2020/06/03/liubowenyuyanjiedu/"
+      "url"      : "/blog/2020/06/03/liubowenyuyanjiedu/"
     } ,
   
     {
       "title"    : "试解《刘伯温碑记》",
       "category" : "瘟疫",
       
-      "url"      : "http://localhost:4000/2020/06/03/liubowenyuyanjiedu2/"
+      "url"      : "/blog/2020/06/03/liubowenyuyanjiedu2/"
     } ,
   
     {
       "title"    : "生命的选择",
       "category" : "三退",
       
-      "url"      : "http://localhost:4000/2020/06/03/shengmingdexuanze/"
+      "url"      : "/blog/2020/06/03/shengmingdexuanze/"
     } ,
   
     {
       "title"    : "一位快不行的武汉肺炎病人缓过劲来了",
       "category" : "瘟疫",
       
-      "url"      : "http://localhost:4000/2020/06/03/wenyibaoming/"
+      "url"      : "/blog/2020/06/03/wenyibaoming/"
     } ,
   
     {
       "title"    : "特稿！瘟疫有眼 退党脱险",
       "category" : "三退",
       
-      "url"      : "http://localhost:4000/2020/06/03/wenyiyouyantudangtuoxian/"
+      "url"      : "/blog/2020/06/03/wenyiyouyantudangtuoxian/"
     } ,
   
     {
       "title"    : "疫情故事：九字真言让我度过难关（四则）",
       "category" : "瘟疫",
       
-      "url"      : "http://localhost:4000/2020/06/03/yiqinghgushi/"
+      "url"      : "/blog/2020/06/03/yiqinghgushi/"
     } ,
   
     {
       "title"    : "两武汉医生患武汉肺炎　数日康复",
       "category" : "瘟疫",
       
-      "url"      : "http://localhost:4000/2020/06/03/yishengdejiu/"
+      "url"      : "/blog/2020/06/03/yishengdejiu/"
     } ,
   
     {
       "title"    : "加国男染疫住院 念真言神奇康复",
       "category" : "瘟疫",
       
-      "url"      : "http://localhost:4000/2020/06/03/zhenyanshenqihuifu/"
+      "url"      : "/blog/2020/06/03/zhenyanshenqihuifu/"
     } ,
   
     {
       "title"    : "不怕瘟疫的人",
       "category" : "瘟疫",
       
-      "url"      : "http://localhost:4000/2020/06/04/bupaiwenyideren/"
+      "url"      : "/blog/2020/06/04/bupaiwenyideren/"
     } ,
   
     {
       "title"    : "重庆退伍老兵游历阴曹地府 见到阎王爷",
       "category" : "地狱",
       
-      "url"      : "http://localhost:4000/2020/06/04/chongqinglaobingyoulidiyu/"
+      "url"      : "/blog/2020/06/04/chongqinglaobingyoulidiyu/"
     } ,
   
     {
       "title"    : "大疫中觉醒　三退保平安",
       "category" : "瘟疫",
       
-      "url"      : "http://localhost:4000/2020/06/04/dayijingxingsantui/"
+      "url"      : "/blog/2020/06/04/dayijingxingsantui/"
     } ,
   
     {
       "title"    : "说说“神目如电”",
       "category" : "瘟疫",
       
-      "url"      : "http://localhost:4000/2020/06/04/shenmurudian/"
+      "url"      : "/blog/2020/06/04/shenmurudian/"
     } ,
   
     {
       "title"    : "三退问答",
       "category" : "三退",
       
-      "url"      : "http://localhost:4000/2020/06/04/suantuibaoming1/"
+      "url"      : "/blog/2020/06/04/suantuibaoming1/"
     } ,
   
     {
       "title"    : "为什么退党与保命有关",
       "category" : "三退",
       
-      "url"      : "http://localhost:4000/2020/06/04/suantuibaoming2/"
+      "url"      : "/blog/2020/06/04/suantuibaoming2/"
     } ,
   
     {
       "title"    : "誓言与兽的印记",
       "category" : "三退",
       
-      "url"      : "http://localhost:4000/2020/06/04/suantuibaoming3/"
+      "url"      : "/blog/2020/06/04/suantuibaoming3/"
     } ,
   
     {
       "title"    : "读《看见瘟神》有感",
       "category" : "瘟疫",
       
-      "url"      : "http://localhost:4000/2020/06/05/kanjianwenshen/"
+      "url"      : "/blog/2020/06/05/kanjianwenshen/"
     } ,
   
     {
       "title"    : "翻墙方法汇总",
       "category" : "翻墙",
       
-      "url"      : "http://localhost:4000/2020/06/05/ruhefanqian/"
+      "url"      : "/blog/2020/06/05/ruhefanqian/"
     } ,
   
     {
       "title"    : "英首相病危后再给生机",
       "category" : "瘟疫",
       
-      "url"      : "http://localhost:4000/2020/06/05/yingguoshouxiang/"
+      "url"      : "/blog/2020/06/05/yingguoshouxiang/"
     } ,
   
     {
       "title"    : "第二波瘟疫离我们还有多远？",
       "category" : "瘟疫",
       
-      "url"      : "http://localhost:4000/2020/06/14/dierbowenyi/"
+      "url"      : "/blog/2020/06/14/dierbowenyi/"
+    } ,
+  
+    {
+      "title"    : "如何将自己的名字从黑色名册转入金色名册",
+      "category" : "瘟疫",
+      
+      "url"      : "/blog/2020/06/18/heisemingcejinsemingce/"
+    } ,
+  
+    {
+      "title"    : "看见瘟神……",
+      "category" : "瘟疫",
+      
+      "url"      : "/blog/2020/06/18/kanjianwenshen/"
+    } ,
+  
+    {
+      "title"    : "历史本不应这样轮回",
+      "category" : "瘟疫",
+      
+      "url"      : "/blog/2020/06/18/lishibugaizheyang/"
     } ,
   
     {
       "title"    : "法轮功入门简介",
       "category" : "法轮大法",
       
-      "url"      : "http://localhost:4000/wiki/falundafa1/"
+      "url"      : "/blog/wiki/falundafa1/"
     } ,
   
     {
       "title"    : "江泽民为何要迫害法轮功",
       "category" : "法轮大法",
       
-      "url"      : "http://localhost:4000/wiki/falundafa2/"
+      "url"      : "/blog/wiki/falundafa2/"
     } ,
   
     {
       "title"    : "共产党为什么要镇压法轮功？",
       "category" : "法轮大法",
       
-      "url"      : "http://localhost:4000/wiki/falundafa3/"
+      "url"      : "/blog/wiki/falundafa3/"
     } ,
   
     {
       "title"    : "中共为什么迫害法轮功",
       "category" : "法轮大法",
       
-      "url"      : "http://localhost:4000/wiki/falundafa4/"
+      "url"      : "/blog/wiki/falundafa4/"
     } ,
   
     {
       "title"    : "Wiki Template",
       "category" : "cate1",
       
-      "url"      : "http://localhost:4000/wiki/template/"
+      "url"      : "/blog/wiki/template/"
     } 
   
 ]
